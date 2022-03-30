@@ -21,8 +21,6 @@ Unofficial NBA API for Historical NBA Data
 **Player Name**
 
 ```
-{![Screenshot_2](https://user-images.githubusercontent.com/71599944/160837299-3ae91a67-382f-4dd8-a1b4-cebfe518ba63.png)
-
   "data":[
     {
       "id":237,
